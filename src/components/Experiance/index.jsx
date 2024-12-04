@@ -95,7 +95,7 @@ const Experience = () => {
                                 </TimelineContent>
                             </TimelineItem>
                         ))}
-                    </Timeline>
+                    </Timeline >
                 </TimelineSection>
             </Wrapper>
         </Container>
